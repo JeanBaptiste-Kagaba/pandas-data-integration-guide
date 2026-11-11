@@ -1,5 +1,4 @@
-# pandas-data-integration-guide
-A practical Python and Pandas guide covering data integration, merging, joining, concatenation, adding records and data aggregation.
+
 # Pandas: Combining, Joining and Adding Data
 
 This guide is designed to help learners understand how to work with multiple datasets using Python and Pandas.
